@@ -31,8 +31,8 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - text: XII CCB
-        href: https://congresobotanica.org
+      - text: XX IBC
+        href: https://ibcmadrid2024.com
       - text: GEOBOTA
         href: https://asociacioncolombianadebotanica.com
       - icon: github
@@ -40,7 +40,7 @@ website:
         
 
   page-footer:
-    center: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    center: Made by [@alexespinocaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:

@@ -1,0 +1,49 @@
+project:
+  type: website
+
+lang: en
+date-format: iso
+
+execute:
+    freeze: auto
+
+website:
+  title: "GEOBOTA at the XX IBC Madrid 2024"
+  description: "GEOBOTA at the XX International Botany Congress Madrid 2024"
+  site-url: https://geobota.github.io/xx-ibc-2024
+  repo-url: https://github.com/geobota/xx-ibc-2024
+
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-GNE953FPSM"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph: true
+
+  navbar:
+  # logo: images/logo_aerobiologia.png
+    right:
+      - text: Home
+        href: index.qmd
+      - text: XII CCB
+        href: https://congresobotanica.org
+      - text: GEOBOTA
+        href: https://asociacioncolombianadebotanica.com
+      - icon: github
+        href: https://github.com/geobota/xx-ibc-2024
+        
+
+  page-footer:
+    center: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

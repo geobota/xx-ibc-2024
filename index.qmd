@@ -1,0 +1,9 @@
+---
+title: "GEOBOTA at the XX IBC Madrid 2024"
+---
+
+::: {.callout-caution}
+## Coming soon
+
+Website under construction. Visit the [main page](https://geobota.github.io).
+:::

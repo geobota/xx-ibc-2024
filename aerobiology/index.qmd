@@ -1,0 +1,25 @@
+---
+title: "How does aerobiology behave in a neotropical city?"
+author:
+  - name: "Álex Espinosa-Correa"
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia."
+    orcid: 0000-0002-7353-1182
+    email: alex.espinosa@udea.edu.co
+  - name: "Fernando A. Alzate-Guarin"
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    email: alveiro.alzate@udea.edu.co
+shortautor: "Espinosa-Correa & Alzate-Guarin"
+bibliography: references.bib
+csl: ../apa.csl
+nocite: |
+  @galán2014; @alzate-guarin2015; @galán2016; @hurtado1995; @aira-rodríguez2018
+---
+
+## References
+
+::: {#refs}
+:::

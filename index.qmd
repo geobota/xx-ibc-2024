@@ -1,9 +1,33 @@
 ---
-title: "GEOBOTA at the XX IBC Madrid 2024"
+title: "How does aerobiology behave in a neotropical city?"
+author:
+  - name: "Álex Espinosa-Correa"
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia."
+        affiliation-url: https://geobota.github.io
+    orcid: 0000-0002-7353-1182
+    email: alex.espinosa@udea.edu.co
+    url: https://alexespinosaco.github.io
+  - name: "Fernando A. Alzate-Guarin"
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    email: alveiro.alzate@udea.edu.co
+shortautor: "Espinosa-Correa & Alzate-Guarin"
+bibliography: references.bib
+csl: apa.csl
+nocite: |
+  @galán2014; @alzate-guarin2015; @galán2016; @hurtado1995; @aira-rodríguez2018; @hirst1952; @galán2007
 ---
 
-::: {.callout-caution}
-## Coming soon
+## Abstract
 
-Website under construction. Visit the [main page](https://geobota.github.io).
+Aerobiology in the tropics is still a science in development, where sampling and analysis are needed to understand the dynamics that occur there. Airborne pollen concentrations in the city of Medellín were measured using a Hirst-type sampler and correlated with meteorological parameters (relative humidity, rainfall, temperature, and wind speed) and air pollutants (PM~2.5~, PM~10~, NO~x~). Sampling was conducted over three years from (2019-2022), and pollen grains were detected on all days of sampling. The annual pollen integral (APIn) was 46,826, 51,536, and 43,608 pollen \* day/m~3~ for each of the three sampling years. A total of 26 pollen types were identified, with *Cecropia*, Urticaceae, *Fraxinus*, Moraceae, Cupressaceae, Myrtaceae, *Pinus*, and Arecaceae being the most abundant. The highest pollen concentrations were observed from December to January and in July-August, corresponding to the months with the lowest rainfall. The Main Pollen Season (MPS) ranged from 247 to 301 days in duration. During all sampling days, aerovagant pollen was found present in the atmosphere of the city of Medellín. The highest hourly pollen concentrations occurred around noon, whilst something very different and rarely reported occurs with *Cecropia*, which is much more abundant at night, from 20:00 to 1:00 h. Relative humidity and rainfall showed negative correlations, while temperature and wind speed exhibited positive correlations, which has also been observed in different samples around the world. PM~2.5~ and NO~x~ display significant negative correlations, whereas PM~10~ exhibits significant positive correlations. These results underscore the influence of atmospheric variables on airborne pollen in a tropical city. Furthermore, they suggest the potential use of pollen as an indicator of air quality in the urban environment.
+
+**Key words:** Aeropalinology; Air Quality; Annual Pollen Integral; Main Pollen Season; Urban ecosystems
+
+## References
+
+::: {#refs}
 :::

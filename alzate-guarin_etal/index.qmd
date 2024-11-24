@@ -1,0 +1,34 @@
+---
+title: "P.0384 Ethnobotany and taxonomy of plants from the Emberá tribe of Colombia"
+author:
+  - name: "Fernando A. Alzate-Guarin"
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia."
+    affiliation-url: https://geobota.github.io/
+    orcid: 0000-0002-4916-8897
+    email: alveiro.alzate@udea.edu.co
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
+  - name: "Sandra M. Turbay-Ceballos"
+    affiliation:
+      - id: udea
+        name: "Grupo de Investigación Medio Ambiente y Sociedad MASO, Departamento de Antropología, Facultad de Ciencias Sociales y Humanas, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia."
+    orcid: 0000-0001-5903-0499
+  - name: "Javier Rosique-Gracia"
+    affiliation:
+      - ref: udea
+    orcid: 0000-0003-2686-8820
+  - name: "Sneider H. Rojas Mora"
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-8781-2487
+---
+
+## Abstract
+
+The Emberá Amerindian people are a tribe found in northern South America and Panama. This ethnic group has some sacred sites in the Serranía de Abibe, the northwestern end of the Andes Mountain range, an area of tropical forest almost unexplored due to social and political reasons. In field work carried out, the flora of three sacred sites for this people, located in the Abibe mountain range, Colombia, was collected, described, and characterized, and the taxonomy and nomenclature used by these communities for the plants in their environment is described and presented. The characterization includes the inventory of a selected sample of the flora associated with these sites and an explanation of their ecological characteristics and cultural importance. Emphasis is placed on the nature of the knowledge that the jaibaná (traditional healers), has about plants and the ways in which they are used in the community. The botanical samples were obtained, pressed, and described for subsequent taxonomic identification in the herbarium of the University of Antioquia (HUA). The information on the use given in the community to the collected species was given by the jaibaná and other members of the indigenous community. 36 of the plants collected have names in the Emberá language, where several of these names are used at the same time to call different species, eight are named after animals and three names refer to parts of the human body. The Emberá language does not have a generic name for all plants, as it does for all animals (ninduru). For the Emberá, plants are considered female or male, depending on whether they produce fruit, and some grammatical radicals are usually added to the name that refer to characters such as timber (zarea), or toxic (neara), depending on the species.
+
+## Citation
+
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Alzate-Guarin, F. A., Turbay-Ceballos, S. M., Rosique-Garc&#xED;a, J., &amp; Rojas-Mora, S. H. (2024). P.0384 Ethnobotany and taxonomy of plants from the Ember&#xE1; tribe of Colombia. In <i>XX International Botanical Congress IBC 2024, Spain. Book of Abstracts. Posters.</i> (pp. 211&#x2013;212). Fase 20 Ediciones. https://ibcmadrid2024.com/docs/secciones/24.pdf</div>
+</div>

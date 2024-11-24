@@ -4,14 +4,17 @@ project:
 lang: en
 date-format: iso
 
+csl: apa.csl
+
 execute:
     freeze: auto
 
 website:
-  title: "GEOBOTA at the XX IBC Madrid 2024"
-  description: "GEOBOTA at the XX International Botany Congress Madrid 2024"
+  title: "GEOBOTA at the XX International Botanical Congress"
+  description: "GEOBOTA at the XX International Botanical Congress, Madrid 2024"
   site-url: https://geobota.github.io/xx-ibc-2024
   repo-url: https://github.com/geobota/xx-ibc-2024
+  image: images/geobota_logo.png
 
   page-navigation: true
   back-to-top-navigation: true
@@ -27,23 +30,27 @@ website:
   open-graph: true
 
   navbar:
-  # logo: images/logo_aerobiologia.png
+    logo: images/placeholder.png
     right:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-      - text: XX IBC
-        href: https://ibcmadrid2024.com
-      - text: GEOBOTA
-        href: https://asociacioncolombianadebotanica.com
+      - text: "XX IBC"
+        href: https://ibcmadrid2024.com/
+      - text: "GEOBOTA"
+        href: http://geobota.github.io/
+      - icon: facebook
+        href: https://www.facebook.com/geobotaudea/
+      - icon: instagram
+        href: https://www.instagram.com/geobotaudea/
       - icon: github
-        href: https://github.com/geobota/xx-ibc-2024
+        href: https://github.com/geobota/xx-ibc-2024/
         
 
   page-footer:
-    center: Made by [\@alexespinocaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    center: Made by [\@alexespinosaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
